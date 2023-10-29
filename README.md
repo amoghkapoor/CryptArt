@@ -1,5 +1,3 @@
-# Read Me
-
 ### Description
 
 Our Project is based on helping the users convert their artwork which is in the form of image or video into NFTs and minting it onto the blockchain according to their preference. The user interaction takes with the help of a discord bot that identifies any image or video file being sent in the chat and then asks from the user whether they want to proceed further for minting. If several images are being sent in one go then the bot even asks for one preference of the user among the sent files. If the bot gets confirmation from the user to proceed further then it redirects them to their DMs further for security reasons and from there continues further. It asks for a name and description of the file and the crypto-wallet address of the user (but not their private key) and then asks for their preference in a particular blockchain. After receiving proper information, it mints the NFT.
@@ -42,3 +40,8 @@ To set up your own instance of this bot:
 1. The first one is the message listener which detects the image and video files and starts the minting process. It is the main attraction of our project.
 2. a slash command called “/list” to list all NFTs linked to a crypto wallet which the bot gets from the wallet address provided by the user in input
 3. a help command which can be access through a slash command called “/help” which acts as a guide to the bot
+
+### Teammates
+1. Amogh Kapoor [https://github.com/amoghkapoor]
+2. Aditya Jain [https://github.com/aditya-411]
+3. Sanjana Patnaik [https://github.com/SanjanaPatnaik]
