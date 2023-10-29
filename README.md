@@ -42,6 +42,6 @@ To set up your own instance of this bot:
 3. a help command which can be access through a slash command called “/help” which acts as a guide to the bot
 
 ### Teammates
-1. Amogh Kapoor [https://github.com/amoghkapoor]
-2. Aditya Jain [https://github.com/aditya-411]
-3. Sanjana Patnaik [https://github.com/SanjanaPatnaik]
+1. [Amogh Kapoor](https://github.com/amoghkapoor)
+2. [Aditya Jain](https://github.com/aditya-411)
+3. [Sanjana Patnaik](https://github.com/SanjanaPatnaik)
